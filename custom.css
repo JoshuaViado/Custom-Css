@@ -63,6 +63,31 @@
 .ot-preference-actions-update {
     border: 3px solid rebeccapurple !important;
 }
+
+.ot-profile-container {
+    border: 3px solid lightsalmon !important;
+}
+
+.ot-profile-title {
+    border: 3px solid green !important;
+}
+
+.ot-profile-data-elements-container {
+    border: 3px solid red !important;
+}
+
+.ot-profile-data-element-input {
+    border: 3px solid blue !important;
+}
+
+.ot-profile-action-undo {
+    border: 3px solid yellow !important;
+}
+
+.ot-profile-action-update {
+    border: 3px solid purple !important;
+}
+
 .ot-confirmation-update {
     border: 3px solid red;
 }
