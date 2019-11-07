@@ -1,0 +1,147 @@
+.ot-preference-header {
+    border: 3px solid magenta !important;
+}
+.ot-preference-spinner {
+    border: 3px solid red;
+}
+.ot-preference-container {
+    border: 3px solid gray;
+}
+.ot-preference-loading-error {
+    border: 3px solid red;
+}
+.ot-preference-title {
+    border: 3px solid blue;
+}
+.ot-preference-welcome-message {
+    border: 3px solid purple !important;
+}
+.ot-preference-purposes {
+    border: 3px solid olivedrab !important;
+}
+.ot-preference-purpose {
+    border: 3px solid orange !important;
+}
+.ot-preference-purpose-toggle {
+    border: 3px solid blue !important;
+}
+.ot-preference-purpose-form-element {
+    border: 3px solid orangered;
+}
+.ot-preference-purpose-form-checkbox {
+    border: 3px solid olivedrab;
+}
+.ot-preference-purpose-description {
+    border: 3px solid peru;
+}
+.ot-preference-topics > div {
+    border: 3px solid skyblue !important;
+    margin-left: 5rem !important;
+}
+.ot-preference-topic {
+    border: 3px solid slateblue;
+}
+.ot-preference-topic-checkbox {
+    border: 3px solid springgreen;
+    margin-left: 5rem;
+}
+.ot-preference-custom {
+    border: 3px solid peru;
+}
+.ot-preference-custom-option {
+    border: 3px solid teal;
+}
+.ot-preference-actions {
+    border: 3px solid red;
+}
+.ot-preference-actions-unsubscribe {
+    border: 3px solid purple;
+}
+.ot-preference-actions-undo {
+    border: 3px solid tomato !important;
+}
+.ot-preference-actions-update {
+    border: 3px solid rebeccapurple !important;
+}
+
+.ot-profile-container {
+    border: 3px solid lightsalmon !important;
+}
+
+.ot-profile-title {
+    border: 3px solid green !important;
+}
+
+.ot-profile-data-elements-container {
+    border: 3px solid red !important;
+}
+
+.ot-profile-data-element-input {
+    border: 3px solid blue !important;
+}
+
+.ot-profile-action-undo {
+    border: 3px solid yellow !important;
+}
+
+.ot-profile-action-update {
+    border: 3px solid purple !important;
+}
+
+.ot-confirmation-update {
+    border: 3px solid red;
+}
+.ot-confirmation-update-header {
+    border: 3px solid blue;
+}
+.ot-confirmation-update-description {
+    border: 3px solid green;
+}
+.ot-confirmation-unsubscribe {
+    border: 3px solid red;
+}
+.ot-confirmation-unsubscribe-header {
+    border: 3px solid blue;
+}
+.ot-confirmation-unsubscribe-description {
+    border: 3px solid green;
+}
+
+.ot-login {
+    border: 3px solid red;
+}
+.ot-login-missing {
+    border: 3px solid red;
+}
+.ot-login-logo {
+    border: 3px solid red;
+}
+.ot-login-header {
+    border: 3px solid red;
+}
+.ot-login-spinner {
+    border: 3px solid red;
+}
+.ot-login-form {
+    border: 3px solid red;
+}
+.ot-login-request-sent {
+    border: 3px solid red;
+}
+.ot-login-powered {
+    border: 3px solid red;
+}
+
+.ot-preference-settings {
+    border: 3px solid red !important;
+}
+.ot-preference-settings-unsubscribe {
+    border: 3px solid purple;
+}
+.ot-preference-settings-notifications {
+    border: 3px solid greenyellow;
+}
+
+.ot-preference-sidebar {
+    border: 3px solid lightsalmon !important;
+}
