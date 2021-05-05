@@ -145,3 +145,7 @@
 .ot-preference-sidebar {
     border: 3px solid lightsalmon !important;
 }
+
+.ot-preference-data-element-input {
+    border: 3px solid greenyellow;
+}
